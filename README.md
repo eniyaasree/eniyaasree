@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Eniyaa Sree 👋
 
-<!--
-**eniyaasree/eniyaasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc IoT graduate from Vellalar College for Women (2026).
+I am a fresher focusing on **Python, HTML and CSS**.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- HTML, CSS
+- C++ (Arduino IDE)
+- ESP32 and sensors (IoT basics)
+- Computer Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- Learning web development
+- Practicing problem solving daily
+- Building projects (coming soon!)
+
+## 📫 Contact
+- Email: eniyaasree15@gmail.com
+- LinkedIn: add-your-linkedin-link-here
