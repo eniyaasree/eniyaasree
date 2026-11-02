@@ -17,4 +17,4 @@ I am a fresher focusing on **Python, HTML and CSS**.
 
 ## 📫 Contact
 - Email: eniyaasree15@gmail.com
-- LinkedIn: add-your-linkedin-link-here
+- LinkedIn: www.linkedin.com/in/eniyaasree
